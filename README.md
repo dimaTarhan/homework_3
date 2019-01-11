@@ -1,4 +1,8 @@
 # HTML-Email
-LETTER SENT TO THE COACH MAIL: **rudnitskih@mate.academy**!
+This is an [Example](https://dimatarhan.github.io/html-email/) of a letter that can be sent to users' emails.
+## Technologies
++ HTML
+## Result:
+Click on image to open the example!
 
-Appearance of the E-mail: [HTML-Email](https://dimatarhan.github.io/html-email/)
+[![home](https://github.com/dimaTarhan/html-email/blob/master/example.PNG)](https://dimatarhan.github.io/html-email/)
