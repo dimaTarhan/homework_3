@@ -1,5 +1,5 @@
 # HTML-Email
-This is an [Example](https://dimatarhan.github.io/html-email/) of a letter that can be sent to users' emails.
+This is a [Letter](https://dimatarhan.github.io/html-email/) that can be sent to users' emails.
 ## Technologies
 + HTML
 ## Result:
